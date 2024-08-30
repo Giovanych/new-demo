@@ -1,9 +1,8 @@
-¡Claro! Aquí tienes la investigación sobre las estructuras de control en programación y cómo se utilizan en JavaScript, organizada de manera que puedas copiarla directamente en tu `README.md`:
-
 ```markdown
 # Estructuras de Control en Programación
 
-Las estructuras de control son bloques de código que permiten controlar el flujo de ejecución de un programa. Son fundamentales para tomar decisiones y repetir tareas, lo que hace que el código sea más dinámico y eficiente. En JavaScript, las principales estructuras de control son:
+Las estructuras de control son bloques de código que permiten controlar el flujo de ejecución de un programa. 
+Son fundamentales para tomar decisiones y repetir tareas, lo que hace que el código sea más dinámico y eficiente. En JavaScript, las principales estructuras de control son:
 
 ## 1. Estructuras de Decisión
 
@@ -90,10 +89,3 @@ Permiten alterar el flujo de ejecución de manera más directa.
 ---
 
 Estas estructuras de control son esenciales para crear programas más complejos y eficientes en JavaScript.
-
-: [Desarrollo Web](https://desarrolloweb.com/articulos/543.php)
-: [Todo Programación](http://todoprogramacion.com.ar/javascript-capitulo-02-estructuras-de-control/)
-: [Conceptopedia](https://conceptopedia.de/estructuras-de-control-en-javascript-para-que-sirve-ejemplos/)
-```
-
-Copia y pega este contenido en tu `README.md` en Visual Studio Code y debería verse correctamente formateado. Si necesitas más ayuda o tienes alguna otra pregunta, ¡házmelo saber!
